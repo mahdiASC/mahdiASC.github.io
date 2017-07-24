@@ -39,3 +39,6 @@ The instructions for building the gem and pushing it to rubygems.org was surpris
 
 ## Final Thoughts
 Coding in Ruby continues to please me. The language is very intuitive and streamlined. The fact that Ruby development is also written in Ruby is a huge plus. Besides the organization pitfalls, I felt comfortable throughout this project and found it to be good practice.
+
+[Final product](https://github.com/mahdiASC/cli-data-gem-assessment-v-000)
+
